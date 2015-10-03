@@ -1,6 +1,6 @@
 # Introduction to Boolean
 
-Boolean is another type of JavaScript and it represent **true** or **false**.
+Boolean is another type of JavaScript and can only hold the value of either **true** or **false**. 
 
 You can use Boolean type to find out if an expression (or a variable) is true:
 
