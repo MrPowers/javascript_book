@@ -9,4 +9,7 @@ Boolean (2 < 5); // true
 ```
 
 Or even easier
+
+```javascript
 2 < 5; // true
+```
