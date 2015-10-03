@@ -1,4 +1,4 @@
-# Introcution to Boolean
+# Introduction to Boolean
 
 Boolean is another type of JavaScript and it represent **true** or **false**.
 
