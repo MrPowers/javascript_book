@@ -1,6 +1,6 @@
 # Introduction to Strings
 
-Strings is another type of JavaSrip, it is used for storing and manipulating text and is always quoted by "" or ''.
+Strings is another type of JavaSrip, it is used for storing and manipulating text and you can use simple or doble quotes.
 
 ```javascript
 "this is a string"
@@ -8,6 +8,6 @@ Strings is another type of JavaSrip, it is used for storing and manipulating tex
 A number can also be a string type.
 
 ```javascript
-"3"
-"4.32"
+'3'
+'4.32'
 ```
