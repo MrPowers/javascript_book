@@ -1,2 +1,2 @@
-indroduction_to_numbers.md
-order_of_operations.md
+- indroduction_to_numbers.md
+- order_of_operations.md
