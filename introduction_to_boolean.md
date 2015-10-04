@@ -19,5 +19,5 @@ You can also use Boolean type to find out if an expression (or a variable) is fa
 Boolean (2 > 5); // false
 ```
 ```javascript
-2 < 5; // false
+2 > 5; // false
 ```
