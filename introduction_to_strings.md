@@ -1,6 +1,8 @@
 # Introduction to Strings
 
-Strings is another type of JavaSrip, it is used for storing and manipulating text and you can use simple or doble quotes.
+Strings is another type of JavaSrip, it is used for storing and manipulating text.
+
+You can use simple or doble quotes to create a string.
 
 ```javascript
 "this is a string"
