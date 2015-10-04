@@ -1,4 +1,0 @@
-- indroduction_to_numbers.md
-- introduction_to_strings.md
-- introduction_to_boolean.md
-- order_of_operations.md
